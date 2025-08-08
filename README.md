@@ -93,15 +93,6 @@ src/
 ## 🚀 API Used
 The application uses the FakeStoreAPI to fetch product data.
 
-## 🚀 Responsive Design
-The application is fully responsive with breakpoints at:
-
-Mobile (max-width: 767px)
-
-Tablet (768px - 1024px)
-
-Desktop (1025px and above)
-
 
 ## 🚀 Installation
      Clone the repository:
